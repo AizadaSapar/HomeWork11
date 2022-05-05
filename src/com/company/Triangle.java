@@ -8,5 +8,6 @@ public class Triangle {
     void area(int a, int b, int c) {
         System.out.println("Площадь треугольника: "+(a+b+c)/2);
         System.out.println();
+        System.out.println();
     }
 }
